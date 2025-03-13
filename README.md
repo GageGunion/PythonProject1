@@ -1,7 +1,7 @@
 <h1>Python Project - Carly's Clipers</h1>
 
 <h2>Description</h2>
-This is a project from codeacademy I completed that is focusing on the use of for loops to list some data from a salon business using Python. This project starts by listing the haircut styles and pricing and then takes the average of the prices. A list of new prices is then created. The reveune is calculated for the number of each haircut listed in the varianble last_week. The average daily reveune is also calculated as well as a list of haircuts under thirty dollars.
+This is a project from codeacademy I completed that is focusing on the use of for loops to list some data from a salon business using Python. This project starts by listing the haircut styles and pricing and then takes the average of the prices. A list of new prices is then created. The reveune is calculated for the number of each haircut listed in the variable last_week. The average daily reveune is also calculated as well as a list of haircuts under thirty dollars.
 <br />
 
 
